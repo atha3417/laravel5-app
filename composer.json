@@ -1,0 +1,13 @@
+{
+    "name": "atha/laravel5-app",
+    "description": "Just a simple hospital app",
+    "keywords": ["php", "laravel"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
